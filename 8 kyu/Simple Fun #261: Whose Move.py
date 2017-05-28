@@ -5,5 +5,3 @@ def whoseMove(lastPlayer, win):
     if win:
         return lastPlayer
     return players[lastPlayer]
-
-    # Your Move...
